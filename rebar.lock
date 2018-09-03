@@ -1,0 +1,6 @@
+{"1.1.0",
+[{<<"postman_transport">>,{pkg,<<"postman_transport">>,<<"1.0.0">>},0}]}.
+[
+{pkg_hash,[
+ {<<"postman_transport">>, <<"B86917C0DE4B10531C7181507A3E7E9119AE54C71DEC01FEF9B8EE2BE4C5D2BF">>}]}
+].
